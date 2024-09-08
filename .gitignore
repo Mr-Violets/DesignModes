@@ -1,5 +1,9 @@
-.exe
-.dll
-.pdb
-.ilk
-.exp
+*.exe
+*.dll
+*.so
+*.a
+*.o
+*.obj
+*.lib
+
+.vscode/
